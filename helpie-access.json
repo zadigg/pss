@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "passcodeVersion": 2,
+  "passcodeVersion": 3,
   "passcodeHashSha256": "1234",
   "message": "Enter the current Helpie passcode."
 }
